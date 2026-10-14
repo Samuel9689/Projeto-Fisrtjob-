@@ -1,0 +1,21 @@
+FIRST JOB — PROJETO ORGANIZADO E CORRIGIDO
+
+ESTRUTURA
+- index.html: página inicial
+- style.css: cores e estilos (verde, azul, ciano, branco e roxo)
+- main.js: navegação ativa, busca de vagas, validação de formulários e ano do rodapé
+- html/: páginas internas
+
+COMO ABRIR NO VS CODE
+1. Extraia este ZIP.
+2. No VS Code, clique em Arquivo > Abrir Pasta.
+3. Selecione a pasta first_job_organizado.
+4. Instale a extensão Live Server, se ainda não tiver.
+5. Clique com o botão direito em index.html e escolha "Open with Live Server".
+6. Use o menu para navegar entre as páginas.
+
+IMPORTANTE
+- O JavaScript está incluído no index.html por main.js e nas páginas internas por ../main.js.
+- A busca filtra as vagas enquanto você digita cargo/área e cidade.
+- Os formulários são demonstrativos: validam os campos, mas não enviam nem armazenam dados.
+- As vagas e empresas são exemplos fictícios.
