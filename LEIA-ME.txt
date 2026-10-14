@@ -1,0 +1,18 @@
+FIRST JOB — PROJETO ORGANIZADO
+
+Estrutura:
+- index.html: página inicial
+- style.css: estilos compartilhados
+- main.js: busca, formulários demonstrativos e navegação
+- html/: páginas internas (cadastro, contato, dicas, empresas, vaga e vagas)
+- img/, audios/, video/: pastas reservadas para seus arquivos de mídia
+
+Como abrir:
+1. Extraia a pasta do ZIP.
+2. Abra a pasta "first_job_organizado" no VS Code (Arquivo > Abrir Pasta).
+3. Clique com o botão direito em index.html e escolha "Open with Live Server".
+4. Navegue pelos links do menu.
+
+Observação:
+As vagas e empresas são exemplos fictícios. Os formulários não enviam nem armazenam dados.
+Os arquivos de mídia estão vazios e prontos para você adicionar conteúdo.
